@@ -1,18 +1,20 @@
-### Hi there 👋
+## Hi there 👋 I'm Haokun (Harry) Zhao
 
 <!--
 **colzela/colzela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently a first year graduate student @ UC San Diego majoring in Computer Engineering.
+- 🌱 I’m looking for research opportunities related to ML Theory, Recommendation Systems, and Computer Vision
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->![Visitor Count](https://profile-counter.glitch.me/colzela/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colzela&layout=compact)](https://github.com/colzela/github-readme-stats)
+- 💬 Ask me about ...-->
+- 📫 How to reach me: haz118@ucsd.edu or 18392891510@163.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love music and playing the saxophone. I also enjoy hiking and touring all over the world!
 
+<!--
+![Visitor Count](https://profile-counter.glitch.me/colzela/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colzela&layout=compact)](https://github.com/colzela/github-readme-stats)
+-->
