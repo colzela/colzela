@@ -7,7 +7,7 @@
 - 🔭 I’m currently a first year graduate student @ UC San Diego majoring in Computer Engineering.
 - 🌱 I’m looking for research opportunities related to ML Theory, Recommendation Systems, and Computer Vision
 - 👯 Here is my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/haokun-zhao)
-- 📫 How to reach me: haz118@ucsd.edu or 18392891510@163.com
+- 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music and playing the saxophone. I also enjoy hiking and touring all over the world!
 <!--
