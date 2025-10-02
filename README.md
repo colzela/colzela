@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently a second year graduate student @ UC San Diego majoring in Computer Engineering.
-- 🌱 I’m looking for research opportunities related to ML Theory, Recommendation Systems, and large language models
+- 🌱 I’m looking for research opportunities related to ML Theory and LLMs.
 - 👯 Here is my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/haokun-zhao)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
