@@ -4,8 +4,8 @@
 **colzela/colzela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a second year graduate student @ UC San Diego majoring in Computer Engineering.
-- 🌱 I’m looking for research opportunities related to ML Theory and LLMs.
+- 🔭 I’m currently a second year M.S. student @ UC San Diego.
+- 🌱 I’m actively looking for 26Fall PhD in US. Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion!
 - 👯 Here is my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/haokun-zhao)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
