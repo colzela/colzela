@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently a second year M.S. student @ UC San Diego.
 - 🌱 I’m actively looking for 26Fall PhD in US. Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion!
-- 👯 Here is my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/haokun-zhao)
+- 👯 Here is my Personal Website: [haokun-zhao](https://haokun-zhao.github.io)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love music and playing the saxophone. I also enjoy hiking and touring all over the world!
+- ⚡ Fun fact: I love music and playing the saxophone 🎷. I am good at table tennis 🏓 and bedminton 🏸. I also enjoy hiking and touring all over the world!
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
