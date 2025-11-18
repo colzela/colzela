@@ -9,7 +9,7 @@
 - 👯 Here is my Personal Website: [haokun-zhao](https://haokun-zhao.github.io)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love music and playing the saxophone 🎷. I am good at table tennis 🏓 and bedminton 🏸. I also enjoy hiking and touring all over the world!
+- ⚡ Fun fact: I love music and playing the saxophone 🎷. I am good at table tennis 🏓 and badminton 🏸. I also enjoy hiking and touring all over the world!
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
